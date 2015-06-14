@@ -1,0 +1,1 @@
+{"name":"inotify","counts":{"deprecated":0,"unstable":0,"stable":6,"unmarked":66},"submodules":[{"name":"ffi","counts":{"deprecated":0,"unstable":0,"stable":3,"unmarked":34},"submodules":[]},{"name":"wrapper","counts":{"deprecated":0,"unstable":0,"stable":3,"unmarked":31},"submodules":[]}]}
